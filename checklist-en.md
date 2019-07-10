@@ -20,7 +20,7 @@
   * [ ] Check if latest Heroku stack is being used
   * [ ] Check if latest server OS version is being used
   * [ ] Check if latest server Python version is being used
-  * [ ] Configure Redis maxmemory and eviction policy (likely `noeviction`)
+  * [ ] Configure Redis maxmemory and eviction policy (likely `volatile-ttl`)
   * [ ] Configure RabbitMQ: https://www.rabbitmq.com/production-checklist.html
   * [ ] Configure SSL for everything
   * [ ] Test SSL health: https://www.ssllabs.com/ssltest/index.html
