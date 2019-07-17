@@ -34,6 +34,8 @@
   * [ ] Limit file size for uploads
   * [ ] Validate uploads media types: http://blog.hayleyanderson.us/2015/07/18/validating-file-types-in-django/
   * [ ] Configure throttling
+  * [ ] Configure autoscaling
+  * [ ] Check if all services are able to handle autoscaling upper limits. (Eg.: will your Redis be able to handle connections if X servers are provisioned)
 
 ## Django Checklist
   * [ ] Run `python manage.py check --deploy` in production
