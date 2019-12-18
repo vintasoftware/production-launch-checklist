@@ -4,6 +4,7 @@
  * [ ] Check the website is retina compatible
  * [ ] Set favicon
  * [ ] Customize the default error views
+ * [ ] Check you have dumb 500 error pages, the least logic in it minimizes the risk of infinite break redirects
  * [ ] Test target browsers compatibility
  * [ ] Guarantee the application is mobile-friendly: http://bit.ly/ggl-mobile-friendly-tool 
 

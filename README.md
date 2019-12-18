@@ -1,4 +1,4 @@
-[![alt text](https://s3-sa-east-1.amazonaws.com/www.vinta.com.br/images/dont_delete/devchecklist-logo.png "Devchecklists Logo")](https://www.devchecklist.com)
+[![alt text](https://s3-sa-east-1.amazonaws.com/www.vinta.com.br/images/dont_delete/devchecklist-logo.png "Devchecklists Logo")](https://devchecklists.com)
 
 # Production Launch Checklist
 A checklist we use here at Vinta before launching a product we've been working on. We usually keep developing on staging for the client to validate initial features but release as soon as we have enough features to make it an MVP.
